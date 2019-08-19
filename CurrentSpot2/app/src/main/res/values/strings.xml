@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Current Spot</string>
+
+    <string name="title_activity_configure">Settings</string>
+    <string name="send_button"> Send Location!</string>
+
+</resources>
